@@ -1,0 +1,5 @@
+BB#PBS -N my_project_1
+cd ~/Parallelism/serial
+echo Starting calculation
+./app
+echo End of calculation
